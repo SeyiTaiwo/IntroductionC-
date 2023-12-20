@@ -18,7 +18,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Script on hello in C++: <br/>
+printf with hello: <br/>
 <img src="https://i.postimg.cc/FRDgtCZQ/Hello.png" height="80%" width="80%" alt="printf for hello" />
 <br />
 <br />
