@@ -1,4 +1,4 @@
-<h1>Training on C++</h1>
+<h1>Lab work on C++ and PowerShell Perfomance</h1>
 
  
 <h2>Description</h2>
